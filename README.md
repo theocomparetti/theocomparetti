@@ -65,13 +65,8 @@
 
 ---
 
-### 🏆 GitHub Trophies e Estatísticas
+![Minhas Habilidades](https://quickchart.io/chart?w=500&h=500&c={type:'radar',data:{labels:['Suporte Técnico','Gestão de TI','Power BI / SQL','Java / Python','Atendimento ao Público'],datasets:[{label:'Nível',data:[85,75,80,65,95],backgroundColor:'rgba(0,255,255,0.2)',borderColor:'rgba(0,255,255,1)',pointBackgroundColor:'rgba(0,255,255,1)',pointBorderColor:'#fff'}]},options:{scale:{gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.2)'},pointLabels:{fontColor:'rgba(255,255,255,0.9)',fontSize:16,fontStyle:'bold'},ticks:{display:false,min:0,max:100}},legend:{display:false}}})
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theocomparetti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
 
 <br>
 
