@@ -1,58 +1,92 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=250&section=header&text=Théo%20Vinicius&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Suporte%20de%20TI%20%7C%20Help%20Desk&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Inicializando+sistema...;Acesso+concedido.;Ol%C3%A1%2C+eu+sou+o+Th%C3%A9o+Vinicius+_;%3E%3E+Futuro+Especialista+em+Suporte+de+TI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Estudante+de+Gest%C3%A3o+em+TI+🚀;Transi%C3%A7%C3%A3o+para+Suporte+T%C3%A9cnico+💻;Foco+na+Resolu%C3%A7%C3%A3o+de+Problemas+🔧;Vai+Corinthians!+🦅" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-> **[STATUS DO SISTEMA: ONLINE]**
-> **>_ NOME:** Théo Vinicius Comparetti Lima Silva
-> **>_ BASE:** São Paulo, Brasil
-> **>_ OBJETIVO:** Transição para Suporte Técnico / Help Desk
-> **>_ ESTADO_ATUAL:** 4º Semestre em Gestão em TI (Formatura em breve!)
-
-<br>
-
-### 🛰️ TRANSMISSÃO DE DADOS: SOBRE MIM
-
-💡 **Background:** Mais de 3 anos de sólida experiência em atendimento direto ao público, agora aplicando essa habilidade de comunicação na resolução de problemas de TI.  
-🎓 **Certificações em Processamento:** Google IT Support Professional (Módulo 2) | Power BI - SENAI (Concluído).  
-🎮 **Logs Pessoais:** Torcedor do Corinthians e focado no ecossistema do PS5 nas horas vagas.
-
-<br>
-
-### 🛠️ STACK TECNOLÓGICO [MÓDULOS ATIVOS]
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%230d1117.svg?style=for-the-badge&logo=java&logoColor=00FFCC" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%230d1117.svg?style=for-the-badge&logo=python&logoColor=00FFCC" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-%230d1117.svg?style=for-the-badge&logo=mysql&logoColor=00FFCC" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-%230d1117.svg?style=for-the-badge&logo=html5&logoColor=00FFCC" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Power_BI-%230d1117.svg?style=for-the-badge&logo=powerbi&logoColor=00FFCC" alt="Power BI" />
+  <p>
+    Com mais de <b>3 anos de experiência em atendimento ao público</b>, decidi unir minha facilidade de comunicação à minha paixão pela tecnologia. No 4º semestre de <b>Gestão em TI</b> (São Paulo, BR), meu foco atual é a transição de carreira para a linha de frente do <b>Suporte Técnico e Help Desk</b>.
+  </p>
 </div>
 
 <br>
 
-### 📂 DIRETÓRIO DE PROJETOS
+---
 
-| ID | PROJETO | DESCRIÇÃO | TECNOLOGIAS |
-| :---: | :--- | :--- | :--- |
-| **01** | `[EPI_Manager.exe]` | Sistema de gerenciamento e controle de Equipamentos de Proteção Individual desenvolvido para a Sustentare. | `Java`, `HTML` |
-| **02** | `[Sys_Revestir.sh]` | Plataforma de foco social arquitetada para organização e fluxo de doações de roupas. | `Gestão de Projetos` |
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,github,windows,linux&theme=dark" alt="Habilidades" />
+  </a>
+</div>
 
 <br>
 
-### 📈 TELEMETRIA DO GITHUB
+---
+
+### 🎓 Especializações e Certificações
+
+- 🛡️ **Google IT Support Professional Certificate** *(Cursando Módulo 2)*
+- 📊 **Power BI** - SENAI *(Concluído)*
+- 🎓 **Gestão em Tecnologia da Informação** *(Formatura prevista para meados do ano!)*
+
+<br>
+
+---
+
+### 📂 Projetos em Destaque
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theocomparetti&theme=tokyonight&hide_border=true" alt="Estatísticas do Théo" />
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 EPI Manager</h3>
+        <p align="center">Sistema desenvolvido para a Sustentare, focado no gerenciamento e controle de Equipamentos de Proteção Individual.</p>
+        <p align="center"><i>Stack: Java, HTML</i></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">👕 Projeto Revestir</h3>
+        <p align="center">Plataforma de foco social arquitetada para organizar e facilitar o fluxo de doações de roupas.</p>
+        <p align="center"><i>Foco: Gestão de Projetos</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+---
+
+### 🏆 GitHub Trophies e Estatísticas
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=theocomparetti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theocomparetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocomparetti&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Linguagens" height="170" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <p>Vamos nos conectar e falar sobre TI (ou sobre os jogos do Corinthians e do PS5! 🎮)</p>
   <a href="https://www.linkedin.com/in/theocomparetti">
-    <img src="https://img.shields.io/badge/Conecte--se_comigo-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
