@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Estudante+de+Gest%C3%A3o+em+TI+🚀;Transi%C3%A7%C3%A3o+para+Suporte+T%C3%A9cnico+💻;Foco+na+Resolu%C3%A7%C3%A3o+de+Problemas+🔧;Vai+Corinthians!+🦅" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Estudante+de+Gest%C3%A3o+em+TI+%F0%9F%9A%80;Transi%C3%A7%C3%A3o+para+Suporte+T%C3%A9cnico+%F0%9F%92%BB;Foco+na+Resolu%C3%A7%C3%A3o+de+Problemas+%F0%9F%94%A7;Vai+Corinthians!+%F0%9F%A6%85" alt="Typing SVG" />
   </a>
 </div>
 
@@ -76,8 +76,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theocomparetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocomparetti&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Linguagens" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theocomparetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas Gerais" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocomparetti&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170" />
 </div>
 
 <br>
