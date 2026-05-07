@@ -68,7 +68,10 @@
 <div align="center">
   <h2>🎯 Matriz de Habilidades Tecnológicas</h2>
   <br>
-  <img src="https://quickchart.io/chart?w=500&h=500&c={type:'radar',data:{labels:['Suporte%20Técnico','Gestão%20de%20TI','Power%20BI%20/%20SQL','Java%20/%20Python','Atendimento%20ao%20Público'],datasets:[{label:'Nível',data:[85,75,80,65,95],backgroundColor:'rgba(0,255,255,0.2)',borderColor:'rgba(0,255,255,1)',pointBackgroundColor:'rgba(0,255,255,1)',pointBorderColor:'rgba(255,255,255,1)'}]},options:{scale:{gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.2)'},pointLabels:{fontColor:'rgba(255,255,255,0.9)',fontSize:16,fontStyle:'bold'},ticks:{display:false,min:0,max:100}},legend:{display:false}}}" width="500" alt="Gráfico Radar de Habilidades" />
+ <div align="center">
+  <img src="https://quickchart.io/chart?w=500&h=500&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Suporte%20T%C3%A9cnico%27%2C%27Gest%C3%A3o%20de%20TI%27%2C%27Power%20BI%20%2F%20SQL%27%2C%27Java%20%2F%20Python%27%2C%27Atendimento%20ao%20P%C3%BAblico%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27N%C3%ADvel%27%2Cdata%3A%5B85%2C75%2C80%2C65%2C95%5D%2CbackgroundColor%3A%27rgba(0%2C255%2C255%2C0.2)%27%2CborderColor%3A%27rgba(0%2C255%2C255%2C1)%27%2CpointBackgroundColor%3A%27rgba(0%2C255%2C255%2C1)%27%2CpointBorderColor%3A%27rgba(255%2C255%2C255%2C1)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7BgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.2)%27%7D%2CpointLabels%3A%7BfontColor%3A%27rgba(255%2C255%2C255%2C0.9)%27%2CfontSize%3A16%2CfontStyle%3A%27bold%27%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" width="500" alt="Gráfico Radar de Habilidades" />
+</div>
+
 </div>
 <br>
 
