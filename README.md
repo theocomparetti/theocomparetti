@@ -65,17 +65,13 @@
 
 ---
 
-![Minhas Habilidades](https://quickchart.io/chart?w=500&h=500&c={type:'radar',data:{labels:['Suporte Técnico','Gestão de TI','Power BI / SQL','Java / Python','Atendimento ao Público'],datasets:[{label:'Nível',data:[85,75,80,65,95],backgroundColor:'rgba(0,255,255,0.2)',borderColor:'rgba(0,255,255,1)',pointBackgroundColor:'rgba(0,255,255,1)',pointBorderColor:'#fff'}]},options:{scale:{gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.2)'},pointLabels:{fontColor:'rgba(255,255,255,0.9)',fontSize:16,fontStyle:'bold'},ticks:{display:false,min:0,max:100}},legend:{display:false}}})
-
-
-<br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theocomparetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas Gerais" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocomparetti&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170" />
+  <h2>🎯 Matriz de Habilidades Tecnológicas</h2>
+  <br>
+  <img src="https://quickchart.io/chart?w=500&h=500&c={type:'radar',data:{labels:['Suporte%20Técnico','Gestão%20de%20TI','Power%20BI%20/%20SQL','Java%20/%20Python','Atendimento%20ao%20Público'],datasets:[{label:'Nível',data:[85,75,80,65,95],backgroundColor:'rgba(0,255,255,0.2)',borderColor:'rgba(0,255,255,1)',pointBackgroundColor:'rgba(0,255,255,1)',pointBorderColor:'rgba(255,255,255,1)'}]},options:{scale:{gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.2)'},pointLabels:{fontColor:'rgba(255,255,255,0.9)',fontSize:16,fontStyle:'bold'},ticks:{display:false,min:0,max:100}},legend:{display:false}}}" width="500" alt="Gráfico Radar de Habilidades" />
 </div>
-
 <br>
+
 
 ---
 
